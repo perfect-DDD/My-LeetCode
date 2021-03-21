@@ -1,0 +1,2 @@
+E:\Github\My-LeetCode\Debug\My-LeetCode.exe
+E:\Github\My-LeetCode\Debug\My-LeetCode.pdb
