@@ -39,8 +39,8 @@ public:
     }
 };
 
-//void main() {
-//    uint32_t n = 00000000000000000000000000001011;
-//    mySolution mytest;
-//    mytest.hammingWeight(n);
-//}
+void main() {
+    uint32_t n = 00000000000000000000000000001011;
+    mySolution mytest;
+    cout << mytest.hammingWeight(n) << endl;
+}
