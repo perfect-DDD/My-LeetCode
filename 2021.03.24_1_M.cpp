@@ -62,8 +62,8 @@ public:
     }
 };
 
-void main() {
-    vector<int> nums = { -1, 3, 2, 0 };
-    mySolution mytest;
-    cout << mytest.find132pattern(nums) << endl;
-}
+//void main() {
+//    vector<int> nums = { -1, 3, 2, 0 };
+//    mySolution mytest;
+//    cout << mytest.find132pattern(nums) << endl;
+//}
